@@ -4,6 +4,9 @@ commit one
 
 ##########
 
+commit three
+
+##########
 
 commit two
 
